@@ -1,0 +1,6 @@
+PySide6-Essentials>=6.9,<6.10
+# Optional extractors / file watching (wider format coverage):
+openpyxl
+xlrd
+PyPDF2
+watchdog
